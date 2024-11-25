@@ -6,12 +6,12 @@ Pamela Thompson
 ## Project Views
 <p>
   
-</p>
+</p><BR>
 ## Software Specifications
 <p>
   
-</p>
+</p><BR>
 ## Contact Information
 Pamela Thompson
 pthompso@catawba.edu
-Linked In: <a href="https://www.linkedin.com/in/pamela-thompson-64856531b/">Connect with me on Linked In</a>
+Linked In: <a href="https://www.linkedin.com/in/pamela-thompson-64856531b/">Connect with me on Linked In</a><BR>
