@@ -16,10 +16,10 @@ Screenshots and explanation of code
 
 ## Software Specifications
 <p>
-Software specifications:
-  Java (version)
-  MySQL (version)
-  Netbeans (version)
+Software specifications:<br>
+  Java (version)<br>
+  MySQL (version)<br>
+  Netbeans (version)<br>
 </p><br>
 
 ## Contact Information
