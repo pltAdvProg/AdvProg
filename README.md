@@ -10,7 +10,7 @@ Dr. Pamela Thompson (instructor)<br>
 
 ## Project Features
 <p>
-Screenshots and explanation of code
+Screenshots and explanation of code to include database EERD and GUI screenshots, plus some code
 </p>
 <br>
 
